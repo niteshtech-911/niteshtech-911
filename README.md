@@ -6,6 +6,16 @@
 
 ---
 
+## 👨‍💻 About Me:
+🔭 I'm currently working on: Building my programming and development skills.
+👯 I'm looking to collaborate on: Open Source and Student Projects.
+🤝 I'm looking for help with: Data Structures, Web Development, and Placement Preparation.
+🌱 I'm currently learning: C, C++, Python, HTML, CSS, and JavaScript.
+💬 Ask me about: Programming, Technology, and Web Development.
+⚡ Fun fact: I enjoy learning new technologies and solving coding challenges.
+
+---
+
 ### 🛠 Tech Stack & Tools
 * **OS/Environment:** Kali Linux, Parrot OS, Termux
 * **Cybersecurity:** Nmap, Metasploit, Hydra, Penetration Testing
@@ -18,11 +28,12 @@
 * **StudyAI Pro:** AI-powered educational tools.
 * **DukaanX:** Digital infrastructure and local service solutions.
 
-### 📈 GitHub Stats
-![Lucky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
 ---
 
+## 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshtech-911&show_icons=true&theme=radical)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=niteshtech-911)
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=niteshtech-911&color=blue" alt="Profile Views" />
 </p>
